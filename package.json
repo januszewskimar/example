@@ -1,0 +1,25 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "Package for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/januszewskimar/example.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Marcin Januszewski",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/januszewskimar/example/issues"
+  },
+  "homepage": "https://github.com/januszewskimar/example#readme",
+  "dependencies": {
+    "mocha": "^8.2.0"
+  }
+}
