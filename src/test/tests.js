@@ -24,7 +24,7 @@ describe('Str class', function(){
 			assert.equal(example2.getLowercased(), "dcba");
 		});
 	});
-	describe('Revert', function(){
+	describe('Reverse', function(){
 		it('Should reverse correctly', function(){
 			assert.equal(example1.getReversed(), "cba");
 			assert.equal(example2.getReversed(), "ABCD");
