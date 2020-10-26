@@ -3,5 +3,5 @@ node_js:
 - "15.0"
 - "14.0"
 before_install:
-- cd src; npm install .
+- npm install .
 script: npm test
